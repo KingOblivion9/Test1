@@ -1,0 +1,2 @@
+A patch for Auto Reroll that removes some unnecessary code, and allows for window dragging and properly organizes and checks prefixes with a 0% chance of rolling.
+Code for dragging comes from the GoldenFix version of this mod, and the organization from Hero's Mod (thank you JopoJelly)

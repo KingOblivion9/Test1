@@ -1,0 +1,3 @@
+displayName = Auto Reroll Fix
+author = (not) King
+version = 0.1
